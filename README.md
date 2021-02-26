@@ -11,5 +11,5 @@ pip3 install unzlib
 # How about use this unzlib repository to test :)
 git clone https://github.com/ramwin/unzlib.git && cd unzlib
 # You can see the content which is compressed by git easyly.
-cat .git/objects/c6/c394e5bbd0c06556c3992b2392e4c761222ae2
+cat .git/objects/c2/dc76d6e9ecfa41381f20813575f92c538448f4 | unzlib/unzlib.py
 ```
